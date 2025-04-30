@@ -1,0 +1,83 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
+  <diagram name="Página-1" id="lOHbwgmauDZyj4Vmm8Xe">
+    <mxGraphModel dx="1412" dy="1906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZE0SEp_18p5DIuNA6VBT-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZE0SEp_18p5DIuNA6VBT-1" target="ZE0SEp_18p5DIuNA6VBT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZE0SEp_18p5DIuNA6VBT-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZE0SEp_18p5DIuNA6VBT-2" value="Fin" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1080" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZE0SEp_18p5DIuNA6VBT-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZE0SEp_18p5DIuNA6VBT-3" target="ZE0SEp_18p5DIuNA6VBT-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZE0SEp_18p5DIuNA6VBT-3" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&quot;Ingrese la&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;moneda origen para la conversión&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(EUR/USD): &quot;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="250" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZE0SEp_18p5DIuNA6VBT-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZE0SEp_18p5DIuNA6VBT-5" target="ZE0SEp_18p5DIuNA6VBT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZE0SEp_18p5DIuNA6VBT-5" value="&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;&lt;font style=&quot;&quot;&gt;Definir tipo_cambio_eur_a_mxn = 22.34&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;font style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/font&gt;&lt;font style=&quot;&quot;&gt;Definir tipo_cambio_usd_a_mxn = 19.60&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="45" y="140" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZE0SEp_18p5DIuNA6VBT-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZE0SEp_18p5DIuNA6VBT-6" target="ZE0SEp_18p5DIuNA6VBT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZE0SEp_18p5DIuNA6VBT-6" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&quot;Ingrese el monto a convertir:&lt;/font&gt; &quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="370" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZE0SEp_18p5DIuNA6VBT-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZE0SEp_18p5DIuNA6VBT-7" target="ZE0SEp_18p5DIuNA6VBT-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240.00142857142865" y="529.9985714285714" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZE0SEp_18p5DIuNA6VBT-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZE0SEp_18p5DIuNA6VBT-7" target="ZE0SEp_18p5DIuNA6VBT-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZE0SEp_18p5DIuNA6VBT-7" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Tipo de conversion EUR&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="510" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ZE0SEp_18p5DIuNA6VBT-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZE0SEp_18p5DIuNA6VBT-9" target="ZE0SEp_18p5DIuNA6VBT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZE0SEp_18p5DIuNA6VBT-9" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&quot;No está disponible este tipo de conversión actualmente&quot;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="890" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZE0SEp_18p5DIuNA6VBT-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZE0SEp_18p5DIuNA6VBT-29" target="ZE0SEp_18p5DIuNA6VBT-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZE0SEp_18p5DIuNA6VBT-29" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Calcular resultado = monto_a_convertir * tipo_cambio_eur_a_mxn&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="539.97" width="180.03" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZE0SEp_18p5DIuNA6VBT-30" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Mostrar &quot;El resultado de la conversión de&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;EUR a MXN es:&quot;, resultado&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="539.97" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZE0SEp_18p5DIuNA6VBT-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZE0SEp_18p5DIuNA6VBT-34" target="ZE0SEp_18p5DIuNA6VBT-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240.00142857142865" y="699.9985714285714" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZE0SEp_18p5DIuNA6VBT-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZE0SEp_18p5DIuNA6VBT-34" target="ZE0SEp_18p5DIuNA6VBT-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZE0SEp_18p5DIuNA6VBT-34" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Tipo de conversión USD&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="680" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ZE0SEp_18p5DIuNA6VBT-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZE0SEp_18p5DIuNA6VBT-36" target="ZE0SEp_18p5DIuNA6VBT-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZE0SEp_18p5DIuNA6VBT-36" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Calcular resultado = monto_a_convertir * tipo_cambio_usd_a_mxn&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="709.97" width="180.03" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZE0SEp_18p5DIuNA6VBT-37" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Mostrar &quot;El resultado de la conversión de&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;USD a MXN es:&quot;, resultado&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="710" width="210" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
